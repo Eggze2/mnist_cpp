@@ -1,3 +1,6 @@
+#ifndef MATH_HPP
+#define MATH_HPP
+
 #include <Eigen/Dense>
 
 class Math {
@@ -19,3 +22,5 @@ public:
         return mse;
     }
 };
+
+#endif // MATH_HPP

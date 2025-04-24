@@ -1,5 +1,4 @@
 #include <iostream>
-// #include <Eigen/Dense>
 #include "math.hpp"
 
 int main() {
