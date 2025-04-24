@@ -33,6 +33,6 @@
 
 bin/
 build/
-
+data/
 .vscode/
 
